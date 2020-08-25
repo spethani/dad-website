@@ -1,0 +1,15 @@
+---
+layout: page
+title: "Services"
+---
+<div class="banner bg-info">
+    <h1 class="text-light text-center">SERVICES</h1>
+</div>
+{% for service in site.data.services %}
+<div class="container">
+    <img class="img-full-width" src="{{ service.image | relative_url }}" />
+    <h3>{{ service.type }}</h3>
+    <p>{{ service.description }}</p>
+</div>
+{% endfor %}
+<br />
