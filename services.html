@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "Services"
+description: Nuruddin Pethani offers tax services, accounting services, retirement planning, estate planning, audit services, advisory services, and more.
 ---
 <div class="banner bg-info">
     <h1 class="text-light text-center">SERVICES</h1>
 </div>
 {% for service in site.data.services %}
 <div class="container">
-    <img class="img-full-width" src="{{ service.image | relative_url }}" />
+    <img class="img-full-width" src="{{ service.image | relative_url }}" alt="{{ service.image-description }}"/>
     <h3>{{ service.type }}</h3>
     <p>{{ service.description }}</p>
 </div>

@@ -8,6 +8,7 @@
     Additionally we also have interim planning sessions where we update ourselves of the developments in your business and accordingly 
     plan the tax incentives available to you at various levels.
   image: /assets/img/tax_service.jpg
+  image-description: Papers spread across the table with a pen, blue mouse, and coffee cup placed on top
 
 - type: Accounting Services
   description: K. K. Mehta CPA Associates PLLC performs a broad range of accounting services encompassing Bookkeeping, Payroll, Sales Tax, 
@@ -18,6 +19,7 @@
     and efficient services. We also provide monthly or quarterly financials as per the client’s requirements to keep them abreast of 
     their situation.
   image: /assets/img/accounting_service.jpg
+  image-description: An accounting book with scribbled names and numbers written down
 
 - type: Retirement Planning
   description: A very important avenue for future financial security is retirement planning. Contributions for the pension plan may 
@@ -26,6 +28,7 @@
     With the recent changes in tax laws, lot of creative strategies can be developed thereby maximizing the contribution for owners 
     and in some cases the deductions can be as much as several hundred thousands of dollars.
   image: /assets/img/retire_service.jpg
+  image-description: An old couple walking down a peaceful road surrounded by bushes and trees
 
 - type: Estate Planning
   description: One of the planning avenues that are often overlooked by many until it is too late is Estate Planning and in fact 
@@ -38,6 +41,7 @@
     manage their finances thus bridging the chasm between opportunity and reality. We provide both a comprehensive array of 
     resources and the personal touch of a trusted tax advisor. We look forward to an opportunity of working for you.
   image: /assets/img/estate_service.jpg
+  image-description: A beautiful and big home with a blue roof and yellow lights
   
 - type: Audit Services
   description: K.K Mehta CPA Associates PLLC is committed to compliance with all audit requirements and standards, and we 
@@ -50,6 +54,7 @@
     and as a result, are efficient and effective.
     We are a Peer Reviewed Audit Firm and also members of NY State Society of CPA’s and PCAOB.
   image: /assets/img/audit_service.jpg
+  image-description: Magnifying glass held up to a piece of paper with numbers and a calculator on the side
 
 - type: Advisory Services
   description: Every year with new legislations the Congress adds numerous tax provisions to the already complex Internal 
@@ -62,3 +67,4 @@
     to save your hard earned dollar. Additionally we also have interim planning sessions where we update ourselves of the 
     developments in your business and accordingly plan the tax incentives available to you at various levels.
   image: /assets/img/advisory_service.jpg
+  image-description: Printout of a spreadsheet with a compass lying on top

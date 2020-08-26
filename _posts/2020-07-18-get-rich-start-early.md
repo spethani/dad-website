@@ -6,6 +6,7 @@ title: Get Rich - Start Early
 description: Do financial provisions look like complete Greek to you? Worry not, here's where to start.
 
 image: /assets/img/posts/get_rich_start_early.jpg
+image-description: Three people at a cafe drinking coffee and looking over at a laptop, with books laid on the table
 image-credit: Helena Lopez
 ---
 You got your dream job and are very excited.  You go through training and orientation.  The HR department gives you the company handbook.  It is a nice binder that you open and glance through it, and realize that all the financial provisions look like Greek to you.  Don’t worry, let's see what you should do.

@@ -6,6 +6,7 @@ title: Roth - To do or not to do?
 description: Should you do a Roth IRA or a traditional IRA? See the different scenarios.
 
 image: /assets/img/posts/roth_to_do.jpg
+image-description: Over the shoulder perspective of a man sitting cross-legged and glancing at an iPad which shows statistics
 image-credit: Adeolu Eletu
 ---
 

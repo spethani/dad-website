@@ -6,6 +6,7 @@ title: NY City Residency - Tax Issues
 description: What are the tax consequences of moving out of NY city? Depends on your domicile.
 
 image: /assets/img/posts/ny_city_residency.jpg
+image-description: New York City skyscrapers with a blue sky
 image-credit: Jason Krieger
 ---
 
