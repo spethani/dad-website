@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: Noor Pethani
+author: Nuruddin Pethani
 title: Roth - To do or not to do?
 description: Should you do a Roth IRA or a traditional IRA? See the different scenarios.
 

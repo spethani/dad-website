@@ -1,6 +1,6 @@
 url: "noorcpa.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Noor Pethani" # the name of your site, e.g. ACME Corp.
+title: "Nuruddin Pethani" # the name of your site, e.g. ACME Corp.
 
 exclude:
   - .jekyll-cache

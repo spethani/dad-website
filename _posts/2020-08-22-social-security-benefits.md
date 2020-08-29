@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: Noor Pethani
+author: Nuruddin Pethani
 description: Should you collect social security at 62 yo, or should you wait? The answer would be simple if only I knew how long you'll be alive.
 
 image: /assets/img/posts/social_security.jpg

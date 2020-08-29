@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: Noor Pethani
+author: Nuruddin Pethani
 title: Get Rich - Start Early
 description: Do financial provisions look like complete Greek to you? Worry not, here's where to start.
 
