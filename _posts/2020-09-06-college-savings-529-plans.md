@@ -17,13 +17,15 @@ That’s around 73K for the two semesters not including the summer courses.  Add
 
 You also have to take inflation into effect.  College tuition rises around 8% every year. 
 
-Salient Features:
+Rising expenses can be countered by investing in the 529 Plans. The best thing about the 529 College Saving Plan is that the entire growth on the amount contributed is tax-free if used for qualified educational expenses.
 
-1. NY state gives you a tax deduction every year of 10k for the contributions made to a NY State College Saving Program.  This tax deduction is per joint return irrespective of the number of kids you have.  It saves you around 1100 dollars if you live in NY City or 700 dollars if you live in NY state but outside the City limits.
+Some of the Salient Features of the 529 Plan are as follows:
 
-2. NJ state does not allow any tax deduction for investing in College Saving 529 plan but the earnings are tax-free if used for qualified educational expenses.
+1. Qualified education expenses include Tuition, Certain Room & Board cost, books, supplies, and computers.
 
-3. The best thing about the 529 plan is that all the earnings are tax-free if you use it for qualified education expenses like Tuition, Certain Room & Board cost, books, supplies, and computers.
+2. NY state gives you a tax deduction every year of 10k for the contributions made to a NY State College Saving Program.  This tax deduction is per joint return irrespective of the number of kids you have.  It saves you around 1100 dollars if you live in NY City or 700 dollars if you live in NY state but outside the City limits.
+
+3. NJ state does not allow any tax deduction for investing in College Saving 529 plan but the earnings are tax-free if used for qualified educational expenses.
 
 4. Other Non-qualified withdrawals can be subject to tax and a 10% penalty on earnings in Federal.  State taxes may also be due.
 
@@ -57,4 +59,4 @@ The Best Performing 529 Plans based on past performance (source Investopedia)
 
 - Invest529 (Virginia)
 
-- NY's 529 College Savings Program (New York) Website: www.nysaves.org
+- [NY's 529 College Savings Program (New York)](https://www.nysaves.org)
