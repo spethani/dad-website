@@ -17,10 +17,12 @@ That’s around 73K for the two semesters not including the summer courses.  Add
 
 You also have to take inflation into effect.  College tuition rises around 8% every year. 
 
-Rising expenses can be countered by investing in the 529 Plans. The best thing about the 529 College Saving Plan is that the entire growth on the amount contributed is tax-free if used for qualified educational expenses.
+Rising expenses can be countered by investing in the 529 Plans. The best thing about the 529 College Saving Plan is that the entire growth on the amount contributed is tax-free if used for qualified educational expenses.  
 
-Some of the Salient Features of the 529 Plan are as follows:
 
+&nbsp;  
+#### Some of the Salient Features of the 529 Plan are as follows:
+&nbsp;  
 1. Qualified education expenses include Tuition, Certain Room & Board cost, books, supplies, and computers.
 
 2. NY state gives you a tax deduction every year of 10k for the contributions made to a NY State College Saving Program.  This tax deduction is per joint return irrespective of the number of kids you have.  It saves you around 1100 dollars if you live in NY City or 700 dollars if you live in NY state but outside the City limits.
@@ -47,10 +49,12 @@ Some of the Salient Features of the 529 Plan are as follows:
 
 13. NY 529 plan has been increased the maximum contribution limit to 520k.  Once the account reaches that figure you cannot contribute more to it but it can continue to grow.  
 
-14. For children receiving salaries, it is important to pay around 10k of tuition fees from their personal bank accounts to claim college credit. Each situation is different and we are happy to guide you.
-
-The Best Performing 529 Plans based on past performance (source Investopedia)
-
+14. For children receiving salaries, it is important to pay around 10k of tuition fees from their personal bank accounts to claim college credit. Each situation is different and we are happy to guide you.  
+  
+  
+&nbsp;  
+#### The Best Performing 529 Plans based on past performance (source Investopedia)
+&nbsp;  
 - CollegeAdvantage (Ohio)
 
 - my529 (Utah)
